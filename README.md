@@ -1,5 +1,3 @@
-<img src="https://cdn.jsdelivr.net/gh/apolloconfig/apollo@master/doc/images/logo/logo-simple.png" alt="apollo-logo" width="40%">
-
 English | [中文](https://www.apolloconfig.com/#/zh/README)
 
 # Apollo - A reliable configuration management system
